@@ -1,0 +1,12 @@
+Confusion matrix :
+[[453  23]
+ [ 36 270]]
+ 
+We got around 723 correct results from 782 rows from validation test set.
+
+f1 score: 92.455%
+
+Without using PCA, accuracy is : 95.013%.
+
+
+
